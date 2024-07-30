@@ -1,5 +1,10 @@
 hi iam git
 hi iamm wwww
+<<<<<<< Updated upstream
 hi iam abd
-hi iam msd
+hi iam msdgit 
 hi sachin
+=======
+hi iam abd
+>>>>>>> Stashed changes
+hfeddcsdvjb
